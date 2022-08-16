@@ -1,6 +1,8 @@
 ## Introduction
 Author: Gabriela Dellamora Paim
+
 Version: V.1 - 2022/08/16
+
 Java Library for sorting data. This is a **work in progress**. This project will countain:
 Sorting Algorithm | 
 ----------------|
